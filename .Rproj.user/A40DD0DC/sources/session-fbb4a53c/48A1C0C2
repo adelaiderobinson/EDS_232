@@ -1,0 +1,31 @@
+{
+    "id": "48A1C0C2",
+    "path": "~/Documents/MEDS/EDS_232/labs/EDS_232/Lab2.Rmd",
+    "project_path": "Lab2.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1674539608107.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,0",
+        "scrollLine": "92",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "589:220"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1674542364,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1674542364050,
+    "read_only": false,
+    "read_only_alternatives": []
+}
